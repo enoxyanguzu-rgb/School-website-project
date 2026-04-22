@@ -1,0 +1,31 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="5PavXxPS69X1weXBIHCZ">
+    <mxGraphModel dx="844" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9Sw5MyTZczn5h9Z2oI2o-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="380" width="620" x="70" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9Sw5MyTZczn5h9Z2oI2o-2" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" value="" vertex="1">
+          <mxGeometry height="110" width="200" x="110" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="9Sw5MyTZczn5h9Z2oI2o-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="History" vertex="1">
+          <mxGeometry height="30" width="60" x="170" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="9Sw5MyTZczn5h9Z2oI2o-4" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diagRev;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" value="" vertex="1">
+          <mxGeometry height="120" width="240" x="100" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="9Sw5MyTZczn5h9Z2oI2o-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Head teacher" vertex="1">
+          <mxGeometry height="30" width="60" x="190" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="9Sw5MyTZczn5h9Z2oI2o-6" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" value="" vertex="1">
+          <mxGeometry height="220" width="210" x="430" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9Sw5MyTZczn5h9Z2oI2o-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Core values" vertex="1">
+          <mxGeometry height="30" width="110" x="470" y="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
